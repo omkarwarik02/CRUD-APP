@@ -1,16 +1,30 @@
-<<<<<<< HEAD
-# React + Vite
+📘 React CRUD App with Axios | REST API Integration
+This project demonstrates a complete CRUD (Create, Read, Update, Delete) application built using React JS and Axios, interacting with a real RESTful API. It covers all fundamental operations such as fetching, adding, editing, and deleting data, making it a great example of how to build dynamic and responsive React applications that communicate with back-end services.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+🔧 Features
+✅ GET – Fetch and display data from a REST API
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📝 POST – Add new records via form submission
 
-## Expanding the ESLint configuration
+🔄 PUT – Edit and update existing records
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# CRUD-APP-Task-Manager-
->>>>>>> 976e1b5ed20bd0db8ca3b90defa257f21407c718
+❌ DELETE – Remove records dynamically
+
+📦 State management using React Hooks (useState, useEffect)
+
+⚙️ API interaction using Axios
+
+🧼 Clean UI with responsive layout and basic styling
+
+🚫 Error handling for failed API requests
+
+
+
+
+
+📂 Tech Stack
+Frontend: React JS
+HTTP Client: Axios
+API: JSONPlaceholder (or any real REST API)
+
